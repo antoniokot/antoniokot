@@ -1,4 +1,4 @@
- ![Hello World](https://res.cloudinary.com/practicaldev/image/fetch/s--zNqcSN_E--/c_imagga_scale,f_auto,fl_progressive,h_900,q_66,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif)
+ ![Hello World](https://lh3.googleusercontent.com/proxy/d7455VzvanOx0SgTog5IHIe1Yt3ORBOQIlMGbYkBO_ZKyF0voBn1SsR1W263MznqwQ0_p-SYe_BZZ7k1l2NjV4zGR1weqinkwTC31rC88FjhMw)
  
  [LinkedIn](https://www.linkedin.com/in/ant%C3%B4nio-kotsubo-421aa01b7/)
 # Welcome to my profile :)
