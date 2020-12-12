@@ -1,3 +1,5 @@
+[LinkedIn](https://www.linkedin.com/in/ant%C3%B4nio-kotsubo-421aa01b7/)
+
 # Welcome to my profile :)
 
 My name is Antônio and I'm an IT student at Technical High School of Campinas (COTUCA).
