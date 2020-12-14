@@ -1,4 +1,4 @@
- ![Hello World](https://lh3.googleusercontent.com/proxy/d7455VzvanOx0SgTog5IHIe1Yt3ORBOQIlMGbYkBO_ZKyF0voBn1SsR1W263MznqwQ0_p-SYe_BZZ7k1l2NjV4zGR1weqinkwTC31rC88FjhMw)
+ ![Hello World](https://media2.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif)
  
  [LinkedIn](https://www.linkedin.com/in/ant%C3%B4nio-kotsubo-421aa01b7/)
 # Welcome to my profile :)
