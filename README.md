@@ -8,7 +8,7 @@
 
 I am currently a front-end web developer who is exploring the design world and always trying to learn the best technologies in the software development world.
  
- 🔭 I’m planning to be a Full-stack Web Developer **Vision: ML-based System for Blinds**.
+ 🔭 I’m planning to be a Full-stack Web Developer.
  
  🌱 I’m always learning about the ReactJS <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> universe.
  
