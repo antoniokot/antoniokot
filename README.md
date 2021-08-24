@@ -12,7 +12,8 @@ I am currently a front-end web developer who is exploring the design world and a
  
  🌱 I’m always learning about the ReactJS <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> universe.
  
- :books: I want to learn <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> and <img src=" 	https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+ :books: I want to learn <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> and
+ <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 
 ![Profile views](https://gpvc.arturio.dev/antoniokot)  <img src="https://img.shields.io/github/followers/antoniokot?label=Follow" style=" float:left, margin-right:10px" />
 
@@ -48,7 +49,7 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/a
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="antoniokot | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="antoniokot | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]
 [<img alt="Antonio's Spotify" src="https://img.shields.io/badge/_Spotify_-1ED760?style=for-the-badge&logo=spotify"/>]
 <br/>
 
@@ -58,6 +59,6 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 :star: From [antoniokot](https://github.com/antoniokot)
 
-[linkedin]: https://www.linkedin.com/in/antoniokot/
-[spotify]: https://open.spotify.com/user/12174767337?si=2dd587e629eb41c6
+[linkedin]: https://www.linkedin.com/in/antoniokotsubo/
+[spotify]: https://open.spotify.com/user/antoniokot/
 
