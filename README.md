@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/antoniokot/antoniokot/master/Banner.png" width="100%" title="Intro Banner" alt="Intro Banner">
+  <img src="https://raw.githubusercontent.com/antoniokot/antoniokot/master/Banner.svg" width="100%" title="Intro Banner" alt="Intro Banner">
 </p>
 
 I am currently a front-end web developer who is exploring the design world and always trying to learn the best technologies in the software development world.
