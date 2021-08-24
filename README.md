@@ -41,7 +41,7 @@ My name is Antônio and I'm an IT student at Technical High School of Campinas (
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniokot&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniokot&show_icons=true&theme=radical&hide_border=true)
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/antoniokot)
 
