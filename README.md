@@ -49,8 +49,10 @@ Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/a
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="antoniokot | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]
-[<img alt="Antonio's Spotify" src="https://img.shields.io/badge/_Spotify_-1ED760?style=for-the-badge&logo=spotify"/>]
+<a target="_blank" href="https://www.linkedin.com/in/antoniokotsubo/"> <img alt="Antonio's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+	</a>
+	<a target="_blank" href="https://open.spotify.com/user/antoniokot">  <img alt="Antonio's Spotify" src="https://img.shields.io/badge/_Spotify_-1ED760?style=for-the-badge&logo=spotify"/>
+	</a>
 <br/>
 
 Let's connect 👨‍💻 and forge the future together.😁✌
@@ -58,7 +60,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 **Check the Repositories and don't forget to give a star.** 👇
 
 :star: From [antoniokot](https://github.com/antoniokot)
-
-[linkedin]: https://www.linkedin.com/in/antoniokotsubo/
-[spotify]: https://open.spotify.com/user/antoniokot/
 
