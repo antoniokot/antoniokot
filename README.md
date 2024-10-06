@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/antoniokot/antoniokot/master/Banner.svg" width="100%" title="Intro Banner" alt="Intro Banner">
 </p>
 
-My name is Antônio and I'm an IT student at Technical High School of Campinas (COTUCA) - UNICAMP. I'm also a front-end web developer who is exploring the design world and always trying to learn the best technologies in the software development world.
+My name is Antônio and I'm an Undergraduate Computer Science Student @ State University of Campinas,UNICAMP. I'm also a front-end web developer who is exploring the design world and always trying to learn the best technologies in the software development world.
  
  🔭 I’m planning to be a Full-stack Web Developer.
  
